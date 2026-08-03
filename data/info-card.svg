@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 320" width="100%" height="100%" preserveAspectRatio="xMidYMid meet" style="max-width: 490px; height: auto;" role="img" aria-labelledby="card-title card-desc">
+  <title id="card-title">Ashish Singh - Developer Profile Card</title>
+  <desc id="card-desc">Neofetch-style terminal card displaying system info, tech stack, projects, and current mission.</desc>
+  <defs>
+    <style>
+      .bg-card {
+        fill: #0d1117;
+        stroke: #30363d;
+        stroke-width: 1px;
+        rx: 8px;
+      }
+      .titlebar-line {
+        stroke: #30363d;
+        stroke-width: 1px;
+      }
+      .term-text {
+        font-family: Consolas, Menlo, Monaco, 'Courier New', monospace;
+        font-size: 11px;
+        fill: #c9d1d9;
+        white-space: pre;
+      }
+      .line {
+        opacity: 0;
+        animation: lineFadeIn 0.35s ease-out forwards;
+      }
+      @keyframes lineFadeIn {
+        0% {
+          opacity: 0;
+          transform: translateY(6px);
+        }
+        100% {
+          opacity: 1;
+          transform: translateY(0);
+        }
+      }
+      .l-0 { animation-delay: 0.05s; }
+      .l-1 { animation-delay: 0.12s; }
+      .l-2 { animation-delay: 0.19s; }
+      .l-3 { animation-delay: 0.26s; }
+      .l-4 { animation-delay: 0.33s; }
+      .l-5 { animation-delay: 0.40s; }
+      .l-6 { animation-delay: 0.47s; }
+      .l-7 { animation-delay: 0.54s; }
+      .l-8 { animation-delay: 0.61s; }
+      .l-9 { animation-delay: 0.68s; }
+      .l-10 { animation-delay: 0.75s; }
+      .l-11 { animation-delay: 0.82s; }
+    </style>
+  </defs>
+  <rect class="bg-card" width="490" height="320" />
+  <circle cx="16" cy="16" r="4.5" fill="#ff5f56" />
+  <circle cx="30" cy="16" r="4.5" fill="#ffbd2e" />
+  <circle cx="44" cy="16" r="4.5" fill="#27c93f" />
+  <text x="245.0" y="19" class="term-text" fill="#8b949e" text-anchor="middle" font-size="10">ashu@dev:~ (neofetch)</text>
+  <line x1="0" y1="30" x2="490" y2="30" class="titlebar-line" />
+  <!-- Terminal Content Lines -->
+  <g class="line l-0"><text x="20" y="50" class="term-text"><tspan fill="#58a6ff">ashu@dev</tspan><tspan fill="#3fb950">:~$</tspan> <tspan fill="#c9d1d9">neofetch --user ashusingh06</tspan></text></g>
+  <g class="line l-1"><text x="20" y="68" class="term-text"><tspan fill="#58a6ff" font-weight="bold" font-size="13">Ashish Singh</tspan> <tspan fill="#8b949e" font-size="10">  •  Student • Full Stack Developer • AI Learner</tspan></text></g>
+  <g class="line l-2"><text x="20" y="82" class="term-text" fill="#30363d">──────────────────────────────────────────────────────────</text></g>
+  <g class="line l-3"><text x="20" y="102" class="term-text"><tspan fill="#d29922" font-weight="bold">SYSTEM</tspan><tspan x="245" fill="#d29922" font-weight="bold">PROJECT</tspan></text></g>
+  <g class="line l-4"><text x="20" y="120" class="term-text"><tspan fill="#8b949e">OS        </tspan><tspan fill="#c9d1d9">Windows 11</tspan><tspan x="245" fill="#3fb950">❯ </tspan><tspan fill="#c9d1d9">AshFal</tspan></text></g>
+  <g class="line l-5"><text x="20" y="138" class="term-text"><tspan fill="#8b949e">Editor    </tspan><tspan fill="#c9d1d9">VS Code</tspan><tspan x="245" fill="#3fb950">❯ </tspan><tspan fill="#c9d1d9">Habit Tracker</tspan></text></g>
+  <g class="line l-6"><text x="20" y="156" class="term-text"><tspan fill="#8b949e">Shell     </tspan><tspan fill="#c9d1d9">PowerShell</tspan><tspan x="245" fill="#3fb950">❯ </tspan><tspan fill="#c9d1d9">AI Planner</tspan></text></g>
+  <g class="line l-7"><text x="20" y="174" class="term-text"><tspan fill="#8b949e">GitHub    </tspan><tspan fill="#c9d1d9">ashusingh06</tspan><tspan x="245" fill="#3fb950">❯ </tspan><tspan fill="#c9d1d9">Discord Logger</tspan></text></g>
+  <g class="line l-8"><text x="20" y="198" class="term-text"><tspan fill="#58a6ff" font-weight="bold">STACK</tspan><tspan x="245" fill="#58a6ff" font-weight="bold">CURRENT MISSION</tspan></text></g>
+  <g class="line l-9"><text x="20" y="216" class="term-text"><tspan fill="#c9d1d9">Next.js • Node.js • TS</tspan><tspan x="245" fill="#a5d6ff">❯ </tspan><tspan fill="#c9d1d9">Build useful software</tspan></text></g>
+  <g class="line l-10"><text x="20" y="234" class="term-text"><tspan fill="#c9d1d9">Python  • Supabase • Git</tspan><tspan x="245" fill="#a5d6ff">❯ </tspan><tspan fill="#c9d1d9">Master AI</tspan></text></g>
+  <g class="line l-11"><text x="245" y="252" class="term-text"><tspan fill="#a5d6ff">❯ </tspan><tspan fill="#c9d1d9">Contribute to Open Source</tspan></text><text x="245" y="270" class="term-text"><tspan fill="#a5d6ff">❯ </tspan><tspan fill="#c9d1d9">Ship Products</tspan></text><text x="20" y="295" class="term-text"><tspan fill="#3fb950">❯ </tspan><tspan fill="#8b949e">Status: </tspan><tspan fill="#58a6ff">Building &amp; Shipping</tspan> <tspan fill="#58a6ff">█</tspan></text></g>
+</svg>

@@ -1,0 +1,301 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 759 791" width="100%" height="100%" preserveAspectRatio="xMidYMid meet" style="max-width: 759px; height: auto;" role="img" aria-labelledby="ascii-title ascii-desc">
+  <title id="ascii-title">Animated Monochrome ASCII Portrait</title>
+  <desc id="ascii-desc">A self-typing monochrome ASCII art representation of a human portrait for GitHub profile.</desc>
+  <defs>
+    <style>
+      .ascii-text {
+        font-family: Consolas, Menlo, Monaco, 'Courier New', monospace;
+        font-size: 12px;
+        fill: #c9d1d9;
+        white-space: pre;
+      }
+      .cursor-text {
+        font-family: Consolas, Menlo, Monaco, 'Courier New', monospace;
+        font-size: 12px;
+        fill: #c9d1d9;
+        opacity: 0;
+        animation: moveCursor 3.50s linear forwards;
+      }
+      @keyframes revealRow {
+        0% { width: 0px; }
+        100% { width: 720.0px; }
+      }
+      .cr {
+        animation: revealRow 0.079s linear forwards;
+      }
+      .cd-0 { animation-delay: 0.000s; }
+      .cd-1 { animation-delay: 0.066s; }
+      .cd-2 { animation-delay: 0.132s; }
+      .cd-3 { animation-delay: 0.198s; }
+      .cd-4 { animation-delay: 0.264s; }
+      .cd-5 { animation-delay: 0.330s; }
+      .cd-6 { animation-delay: 0.396s; }
+      .cd-7 { animation-delay: 0.462s; }
+      .cd-8 { animation-delay: 0.528s; }
+      .cd-9 { animation-delay: 0.594s; }
+      .cd-10 { animation-delay: 0.660s; }
+      .cd-11 { animation-delay: 0.726s; }
+      .cd-12 { animation-delay: 0.792s; }
+      .cd-13 { animation-delay: 0.858s; }
+      .cd-14 { animation-delay: 0.925s; }
+      .cd-15 { animation-delay: 0.991s; }
+      .cd-16 { animation-delay: 1.057s; }
+      .cd-17 { animation-delay: 1.123s; }
+      .cd-18 { animation-delay: 1.189s; }
+      .cd-19 { animation-delay: 1.255s; }
+      .cd-20 { animation-delay: 1.321s; }
+      .cd-21 { animation-delay: 1.387s; }
+      .cd-22 { animation-delay: 1.453s; }
+      .cd-23 { animation-delay: 1.519s; }
+      .cd-24 { animation-delay: 1.585s; }
+      .cd-25 { animation-delay: 1.651s; }
+      .cd-26 { animation-delay: 1.717s; }
+      .cd-27 { animation-delay: 1.783s; }
+      .cd-28 { animation-delay: 1.849s; }
+      .cd-29 { animation-delay: 1.915s; }
+      .cd-30 { animation-delay: 1.981s; }
+      .cd-31 { animation-delay: 2.047s; }
+      .cd-32 { animation-delay: 2.113s; }
+      .cd-33 { animation-delay: 2.179s; }
+      .cd-34 { animation-delay: 2.245s; }
+      .cd-35 { animation-delay: 2.311s; }
+      .cd-36 { animation-delay: 2.377s; }
+      .cd-37 { animation-delay: 2.443s; }
+      .cd-38 { animation-delay: 2.509s; }
+      .cd-39 { animation-delay: 2.575s; }
+      .cd-40 { animation-delay: 2.642s; }
+      .cd-41 { animation-delay: 2.708s; }
+      .cd-42 { animation-delay: 2.774s; }
+      .cd-43 { animation-delay: 2.840s; }
+      .cd-44 { animation-delay: 2.906s; }
+      .cd-45 { animation-delay: 2.972s; }
+      .cd-46 { animation-delay: 3.038s; }
+      .cd-47 { animation-delay: 3.104s; }
+      .cd-48 { animation-delay: 3.170s; }
+      .cd-49 { animation-delay: 3.236s; }
+      .cd-50 { animation-delay: 3.302s; }
+      .cd-51 { animation-delay: 3.368s; }
+      .cd-52 { animation-delay: 3.434s; }
+      @keyframes moveCursor {
+        0.00% { transform: translate(20px, 30.0px); opacity: 1; }
+        2.26% { transform: translate(740.0px, 30.0px); opacity: 1; }
+        1.89% { transform: translate(20px, 43.8px); opacity: 1; }
+        4.15% { transform: translate(740.0px, 43.8px); opacity: 1; }
+        3.77% { transform: translate(20px, 57.6px); opacity: 1; }
+        6.04% { transform: translate(740.0px, 57.6px); opacity: 1; }
+        5.66% { transform: translate(20px, 71.4px); opacity: 1; }
+        7.92% { transform: translate(740.0px, 71.4px); opacity: 1; }
+        7.55% { transform: translate(20px, 85.2px); opacity: 1; }
+        9.81% { transform: translate(740.0px, 85.2px); opacity: 1; }
+        9.43% { transform: translate(20px, 99.0px); opacity: 1; }
+        11.70% { transform: translate(740.0px, 99.0px); opacity: 1; }
+        11.32% { transform: translate(20px, 112.8px); opacity: 1; }
+        13.58% { transform: translate(740.0px, 112.8px); opacity: 1; }
+        13.21% { transform: translate(20px, 126.6px); opacity: 1; }
+        15.47% { transform: translate(740.0px, 126.6px); opacity: 1; }
+        15.09% { transform: translate(20px, 140.4px); opacity: 1; }
+        17.36% { transform: translate(740.0px, 140.4px); opacity: 1; }
+        16.98% { transform: translate(20px, 154.2px); opacity: 1; }
+        19.25% { transform: translate(740.0px, 154.2px); opacity: 1; }
+        18.87% { transform: translate(20px, 168.0px); opacity: 1; }
+        21.13% { transform: translate(740.0px, 168.0px); opacity: 1; }
+        20.75% { transform: translate(20px, 181.8px); opacity: 1; }
+        23.02% { transform: translate(740.0px, 181.8px); opacity: 1; }
+        22.64% { transform: translate(20px, 195.6px); opacity: 1; }
+        24.91% { transform: translate(740.0px, 195.6px); opacity: 1; }
+        24.53% { transform: translate(20px, 209.4px); opacity: 1; }
+        26.79% { transform: translate(740.0px, 209.4px); opacity: 1; }
+        26.42% { transform: translate(20px, 223.2px); opacity: 1; }
+        28.68% { transform: translate(740.0px, 223.2px); opacity: 1; }
+        28.30% { transform: translate(20px, 237.0px); opacity: 1; }
+        30.57% { transform: translate(740.0px, 237.0px); opacity: 1; }
+        30.19% { transform: translate(20px, 250.8px); opacity: 1; }
+        32.45% { transform: translate(740.0px, 250.8px); opacity: 1; }
+        32.08% { transform: translate(20px, 264.6px); opacity: 1; }
+        34.34% { transform: translate(740.0px, 264.6px); opacity: 1; }
+        33.96% { transform: translate(20px, 278.4px); opacity: 1; }
+        36.23% { transform: translate(740.0px, 278.4px); opacity: 1; }
+        35.85% { transform: translate(20px, 292.2px); opacity: 1; }
+        38.11% { transform: translate(740.0px, 292.2px); opacity: 1; }
+        37.74% { transform: translate(20px, 306.0px); opacity: 1; }
+        40.00% { transform: translate(740.0px, 306.0px); opacity: 1; }
+        39.62% { transform: translate(20px, 319.8px); opacity: 1; }
+        41.89% { transform: translate(740.0px, 319.8px); opacity: 1; }
+        41.51% { transform: translate(20px, 333.6px); opacity: 1; }
+        43.77% { transform: translate(740.0px, 333.6px); opacity: 1; }
+        43.40% { transform: translate(20px, 347.4px); opacity: 1; }
+        45.66% { transform: translate(740.0px, 347.4px); opacity: 1; }
+        45.28% { transform: translate(20px, 361.2px); opacity: 1; }
+        47.55% { transform: translate(740.0px, 361.2px); opacity: 1; }
+        47.17% { transform: translate(20px, 375.0px); opacity: 1; }
+        49.43% { transform: translate(740.0px, 375.0px); opacity: 1; }
+        49.06% { transform: translate(20px, 388.8px); opacity: 1; }
+        51.32% { transform: translate(740.0px, 388.8px); opacity: 1; }
+        50.94% { transform: translate(20px, 402.6px); opacity: 1; }
+        53.21% { transform: translate(740.0px, 402.6px); opacity: 1; }
+        52.83% { transform: translate(20px, 416.4px); opacity: 1; }
+        55.09% { transform: translate(740.0px, 416.4px); opacity: 1; }
+        54.72% { transform: translate(20px, 430.2px); opacity: 1; }
+        56.98% { transform: translate(740.0px, 430.2px); opacity: 1; }
+        56.60% { transform: translate(20px, 444.0px); opacity: 1; }
+        58.87% { transform: translate(740.0px, 444.0px); opacity: 1; }
+        58.49% { transform: translate(20px, 457.8px); opacity: 1; }
+        60.75% { transform: translate(740.0px, 457.8px); opacity: 1; }
+        60.38% { transform: translate(20px, 471.6px); opacity: 1; }
+        62.64% { transform: translate(740.0px, 471.6px); opacity: 1; }
+        62.26% { transform: translate(20px, 485.4px); opacity: 1; }
+        64.53% { transform: translate(740.0px, 485.4px); opacity: 1; }
+        64.15% { transform: translate(20px, 499.2px); opacity: 1; }
+        66.42% { transform: translate(740.0px, 499.2px); opacity: 1; }
+        66.04% { transform: translate(20px, 513.0px); opacity: 1; }
+        68.30% { transform: translate(740.0px, 513.0px); opacity: 1; }
+        67.92% { transform: translate(20px, 526.8px); opacity: 1; }
+        70.19% { transform: translate(740.0px, 526.8px); opacity: 1; }
+        69.81% { transform: translate(20px, 540.6px); opacity: 1; }
+        72.08% { transform: translate(740.0px, 540.6px); opacity: 1; }
+        71.70% { transform: translate(20px, 554.4px); opacity: 1; }
+        73.96% { transform: translate(740.0px, 554.4px); opacity: 1; }
+        73.58% { transform: translate(20px, 568.2px); opacity: 1; }
+        75.85% { transform: translate(740.0px, 568.2px); opacity: 1; }
+        75.47% { transform: translate(20px, 582.0px); opacity: 1; }
+        77.74% { transform: translate(740.0px, 582.0px); opacity: 1; }
+        77.36% { transform: translate(20px, 595.8px); opacity: 1; }
+        79.62% { transform: translate(740.0px, 595.8px); opacity: 1; }
+        79.25% { transform: translate(20px, 609.6px); opacity: 1; }
+        81.51% { transform: translate(740.0px, 609.6px); opacity: 1; }
+        81.13% { transform: translate(20px, 623.4px); opacity: 1; }
+        83.40% { transform: translate(740.0px, 623.4px); opacity: 1; }
+        83.02% { transform: translate(20px, 637.2px); opacity: 1; }
+        85.28% { transform: translate(740.0px, 637.2px); opacity: 1; }
+        84.91% { transform: translate(20px, 651.0px); opacity: 1; }
+        87.17% { transform: translate(740.0px, 651.0px); opacity: 1; }
+        86.79% { transform: translate(20px, 664.8px); opacity: 1; }
+        89.06% { transform: translate(740.0px, 664.8px); opacity: 1; }
+        88.68% { transform: translate(20px, 678.6px); opacity: 1; }
+        90.94% { transform: translate(740.0px, 678.6px); opacity: 1; }
+        90.57% { transform: translate(20px, 692.4px); opacity: 1; }
+        92.83% { transform: translate(740.0px, 692.4px); opacity: 1; }
+        92.45% { transform: translate(20px, 706.2px); opacity: 1; }
+        94.72% { transform: translate(740.0px, 706.2px); opacity: 1; }
+        94.34% { transform: translate(20px, 720.0px); opacity: 1; }
+        96.60% { transform: translate(740.0px, 720.0px); opacity: 1; }
+        96.23% { transform: translate(20px, 733.8px); opacity: 1; }
+        98.49% { transform: translate(740.0px, 733.8px); opacity: 1; }
+        98.11% { transform: translate(20px, 747.6px); opacity: 1; }
+        100.00% { transform: translate(740.0px, 747.6px); opacity: 1; }
+        100% { opacity: 0; }
+      }
+    </style>
+    <clipPath id="cp-0"><rect class="cr cd-0" x="20" y="27.2" width="0" height="17.9" /></clipPath>
+    <clipPath id="cp-1"><rect class="cr cd-1" x="20" y="41.0" width="0" height="17.9" /></clipPath>
+    <clipPath id="cp-2"><rect class="cr cd-2" x="20" y="54.8" width="0" height="17.9" /></clipPath>
+    <clipPath id="cp-3"><rect class="cr cd-3" x="20" y="68.6" width="0" height="17.9" /></clipPath>
+    <clipPath id="cp-4"><rect class="cr cd-4" x="20" y="82.4" width="0" height="17.9" /></clipPath>
+    <clipPath id="cp-5"><rect class="cr cd-5" x="20" y="96.2" width="0" height="17.9" /></clipPath>
+    <clipPath id="cp-6"><rect class="cr cd-6" x="20" y="110.0" width="0" height="17.9" /></clipPath>
+    <clipPath id="cp-7"><rect class="cr cd-7" x="20" y="123.8" width="0" height="17.9" /></clipPath>
+    <clipPath id="cp-8"><rect class="cr cd-8" x="20" y="137.6" width="0" height="17.9" /></clipPath>
+    <clipPath id="cp-9"><rect class="cr cd-9" x="20" y="151.4" width="0" height="17.9" /></clipPath>
+    <clipPath id="cp-10"><rect class="cr cd-10" x="20" y="165.2" width="0" height="17.9" /></clipPath>
+    <clipPath id="cp-11"><rect class="cr cd-11" x="20" y="179.0" width="0" height="17.9" /></clipPath>
+    <clipPath id="cp-12"><rect class="cr cd-12" x="20" y="192.8" width="0" height="17.9" /></clipPath>
+    <clipPath id="cp-13"><rect class="cr cd-13" x="20" y="206.6" width="0" height="17.9" /></clipPath>
+    <clipPath id="cp-14"><rect class="cr cd-14" x="20" y="220.4" width="0" height="17.9" /></clipPath>
+    <clipPath id="cp-15"><rect class="cr cd-15" x="20" y="234.2" width="0" height="17.9" /></clipPath>
+    <clipPath id="cp-16"><rect class="cr cd-16" x="20" y="248.0" width="0" height="17.9" /></clipPath>
+    <clipPath id="cp-17"><rect class="cr cd-17" x="20" y="261.8" width="0" height="17.9" /></clipPath>
+    <clipPath id="cp-18"><rect class="cr cd-18" x="20" y="275.6" width="0" height="17.9" /></clipPath>
+    <clipPath id="cp-19"><rect class="cr cd-19" x="20" y="289.4" width="0" height="17.9" /></clipPath>
+    <clipPath id="cp-20"><rect class="cr cd-20" x="20" y="303.2" width="0" height="17.9" /></clipPath>
+    <clipPath id="cp-21"><rect class="cr cd-21" x="20" y="317.0" width="0" height="17.9" /></clipPath>
+    <clipPath id="cp-22"><rect class="cr cd-22" x="20" y="330.8" width="0" height="17.9" /></clipPath>
+    <clipPath id="cp-23"><rect class="cr cd-23" x="20" y="344.6" width="0" height="17.9" /></clipPath>
+    <clipPath id="cp-24"><rect class="cr cd-24" x="20" y="358.4" width="0" height="17.9" /></clipPath>
+    <clipPath id="cp-25"><rect class="cr cd-25" x="20" y="372.2" width="0" height="17.9" /></clipPath>
+    <clipPath id="cp-26"><rect class="cr cd-26" x="20" y="386.0" width="0" height="17.9" /></clipPath>
+    <clipPath id="cp-27"><rect class="cr cd-27" x="20" y="399.8" width="0" height="17.9" /></clipPath>
+    <clipPath id="cp-28"><rect class="cr cd-28" x="20" y="413.6" width="0" height="17.9" /></clipPath>
+    <clipPath id="cp-29"><rect class="cr cd-29" x="20" y="427.4" width="0" height="17.9" /></clipPath>
+    <clipPath id="cp-30"><rect class="cr cd-30" x="20" y="441.2" width="0" height="17.9" /></clipPath>
+    <clipPath id="cp-31"><rect class="cr cd-31" x="20" y="455.0" width="0" height="17.9" /></clipPath>
+    <clipPath id="cp-32"><rect class="cr cd-32" x="20" y="468.8" width="0" height="17.9" /></clipPath>
+    <clipPath id="cp-33"><rect class="cr cd-33" x="20" y="482.6" width="0" height="17.9" /></clipPath>
+    <clipPath id="cp-34"><rect class="cr cd-34" x="20" y="496.4" width="0" height="17.9" /></clipPath>
+    <clipPath id="cp-35"><rect class="cr cd-35" x="20" y="510.2" width="0" height="17.9" /></clipPath>
+    <clipPath id="cp-36"><rect class="cr cd-36" x="20" y="524.0" width="0" height="17.9" /></clipPath>
+    <clipPath id="cp-37"><rect class="cr cd-37" x="20" y="537.8" width="0" height="17.9" /></clipPath>
+    <clipPath id="cp-38"><rect class="cr cd-38" x="20" y="551.6" width="0" height="17.9" /></clipPath>
+    <clipPath id="cp-39"><rect class="cr cd-39" x="20" y="565.4" width="0" height="17.9" /></clipPath>
+    <clipPath id="cp-40"><rect class="cr cd-40" x="20" y="579.2" width="0" height="17.9" /></clipPath>
+    <clipPath id="cp-41"><rect class="cr cd-41" x="20" y="593.0" width="0" height="17.9" /></clipPath>
+    <clipPath id="cp-42"><rect class="cr cd-42" x="20" y="606.8" width="0" height="17.9" /></clipPath>
+    <clipPath id="cp-43"><rect class="cr cd-43" x="20" y="620.6" width="0" height="17.9" /></clipPath>
+    <clipPath id="cp-44"><rect class="cr cd-44" x="20" y="634.4" width="0" height="17.9" /></clipPath>
+    <clipPath id="cp-45"><rect class="cr cd-45" x="20" y="648.2" width="0" height="17.9" /></clipPath>
+    <clipPath id="cp-46"><rect class="cr cd-46" x="20" y="662.0" width="0" height="17.9" /></clipPath>
+    <clipPath id="cp-47"><rect class="cr cd-47" x="20" y="675.8" width="0" height="17.9" /></clipPath>
+    <clipPath id="cp-48"><rect class="cr cd-48" x="20" y="689.6" width="0" height="17.9" /></clipPath>
+    <clipPath id="cp-49"><rect class="cr cd-49" x="20" y="703.4" width="0" height="17.9" /></clipPath>
+    <clipPath id="cp-50"><rect class="cr cd-50" x="20" y="717.2" width="0" height="17.9" /></clipPath>
+    <clipPath id="cp-51"><rect class="cr cd-51" x="20" y="731.0" width="0" height="17.9" /></clipPath>
+    <clipPath id="cp-52"><rect class="cr cd-52" x="20" y="744.8" width="0" height="17.9" /></clipPath>
+  </defs>
+  <!-- ASCII Art Text Grid -->
+  <g class="ascii-art">
+    <text x="20" y="39.6" class="ascii-text" clip-path="url(#cp-0)" xml:space="preserve">                                                 ..`::::--:`.                                       </text>
+    <text x="20" y="53.4" class="ascii-text" clip-path="url(#cp-1)" xml:space="preserve">                                             .``:--:::::::--:::  .....                              </text>
+    <text x="20" y="67.2" class="ascii-text" clip-path="url(#cp-2)" xml:space="preserve">                                          .`-:.:==-----::--=====----:````.                          </text>
+    <text x="20" y="81.0" class="ascii-text" clip-path="url(#cp-3)" xml:space="preserve">                                       .`:-*=`:==-::`.`:-==--=+*cc**+-:``:-:`.                      </text>
+    <text x="20" y="94.8" class="ascii-text" clip-path="url(#cp-4)" xml:space="preserve">                                      `-:::==++=--=``+s###%#s++c+-:``::`:--::::`  ..                </text>
+    <text x="20" y="108.6" class="ascii-text" clip-path="url(#cp-5)" xml:space="preserve">                                 .`:::-=++****==+*-:s%sccccc##**css*:`:-::+*+=--=--.                </text>
+    <text x="20" y="122.4" class="ascii-text" clip-path="url(#cp-6)" xml:space="preserve">                               .--:-=+***++****cc*-s#cc####s*c##%###s=:-==-=*css+-``.               </text>
+    <text x="20" y="136.2" class="ascii-text" clip-path="url(#cp-7)" xml:space="preserve">                              `=--=*****cccccssss*c#cs%##sssssss#%%%%s++=+*=--=++=:``.  .           </text>
+    <text x="20" y="150.0" class="ascii-text" clip-path="url(#cp-8)" xml:space="preserve">                             `=-=**ccs#####s###scc#s*+--:`..````:-=+c#ccc++c++=--===----:           </text>
+    <text x="20" y="163.8" class="ascii-text" clip-path="url(#cp-9)" xml:space="preserve">                        .``:-=+**ccssssssssssscc#sssc-:-` .......   :csscs+*c++++=-=-``             </text>
+    <text x="20" y="177.6" class="ascii-text" clip-path="url(#cp-10)" xml:space="preserve">                         :--=*c**scssssssssscs###*-cs+-:............:+*s#ss+cc*+++*+=-`.``          </text>
+    <text x="20" y="191.4" class="ascii-text" clip-path="url(#cp-11)" xml:space="preserve">                           .=**s#ssscccsss#####c=:`++c+`............:=+-ss#s*csc*+++====-`          </text>
+    <text x="20" y="205.2" class="ascii-text" clip-path="url(#cp-12)" xml:space="preserve">                          .+**s###%%%%####cc*=:```:-.`==:`......... .:=-:*s#sccsssssc*+:.           </text>
+    <text x="20" y="219.0" class="ascii-text" clip-path="url(#cp-13)" xml:space="preserve">                          -++c##%####s###=:``:=+*cc*+:.`.`.......`:----=-::+s#ssss###*=:            </text>
+    <text x="20" y="232.8" class="ascii-text" clip-path="url(#cp-14)" xml:space="preserve">                          :*+csssss#####=:-=*c*+==---:`..........:*cccc**+-.`*sssscsc*+=`           </text>
+    <text x="20" y="246.6" class="ascii-text" clip-path="url(#cp-15)" xml:space="preserve">               ..........``:````:+c#%%#*:-+=-``.`.`````.........`:-:::::::--`.c#sscss+---           </text>
+    <text x="20" y="260.4" class="ascii-text" clip-path="url(#cp-16)" xml:space="preserve">        ..```````````..````..:.  `.`=c#=:::```-----:::::`.....:---::::::`. .``-%%%#s#*::`           </text>
+    <text x="20" y="274.2" class="ascii-text" clip-path="url(#cp-17)" xml:space="preserve">.....`````.......``.:----==--=-:`=`  .=:-:``=*+#%#s*=`:-=````:=:`:+*s##+++:..`:*s%%#c-.             </text>
+    <text x="20" y="288.0" class="ascii-text" clip-path="url(#cp-18)" xml:space="preserve">```````````-....-:``:---==*===*+=+=:``=-:`.:+ `##ss=.-`-+=---+-``:`cs%#= `*``.-++%#=`               </text>
+    <text x="20" y="301.8" class="ascii-text" clip-path="url(#cp-19)" xml:space="preserve">``````````-+`:`--`:---=+++=*+-++:``:--=+:`...``-**+. ``-*-``-*-``. -**+`.`:``.:c#*=`                </text>
+    <text x="20" y="315.6" class="ascii-text" clip-path="url(#cp-20)" xml:space="preserve">```````:--=+::::==+****+===++-+-:--=++++=:..```.```````++....++:```.````::``.`=s-:---.              </text>
+    <text x="20" y="329.4" class="ascii-text" clip-path="url(#cp-21)" xml:space="preserve">```:::-----++-``````:-=+*+==+++*-=**=**===-``````````:=*:``..`++-````::::::``-c*=***-:              </text>
+    <text x="20" y="343.2" class="ascii-text" clip-path="url(#cp-22)" xml:space="preserve">`:::--==++==+*-`.``....`-+*====++**=**+==-=--:````::-===..... `=+=-::::::::-=-**+=-+=:              </text>
+    <text x="20" y="357.0" class="ascii-text" clip-path="url(#cp-23)" xml:space="preserve">:::==+++++++=+*=-`.````..`=*+==+c*-=::*+=+========--:.=+==---+-:::-========-:.==-+-:=.              </text>
+    <text x="20" y="370.8" class="ascii-text" clip-path="url(#cp-24)" xml:space="preserve">:-=++==-:``.``-*+=:`..```..=*==+c+--  -+==:````````...:=+**+==-:`````:::::::`.=``+:-:               </text>
+    <text x="20" y="384.6" class="ascii-text" clip-path="url(#cp-25)" xml:space="preserve">==-:`.         .-=+-:```````+*==+c==::`+==:```````````..``:`....````````::::``=:=:-:                </text>
+    <text x="20" y="398.4" class="ascii-text" clip-path="url(#cp-26)" xml:space="preserve">`.               .:-==--:````-=+*csc*=.-==-````````..............```````::::.-::--`                 </text>
+    <text x="20" y="412.2" class="ascii-text" clip-path="url(#cp-27)" xml:space="preserve">                    .:==--:`...`-+**+===c-=:``````.-:``:::-::::::--``````::.:+`=:                   </text>
+    <text x="20" y="426.0" class="ascii-text" clip-path="url(#cp-28)" xml:space="preserve">                      .:-====-:`....````-*==:`.`````:::```:::```````````:`.:+=-.                    </text>
+    <text x="20" y="439.8" class="ascii-text" clip-path="url(#cp-29)" xml:space="preserve">                          .``:-========-`:-==-``..`......`---`.```````````-+=-.                     </text>
+    <text x="20" y="453.6" class="ascii-text" clip-path="url(#cp-30)" xml:space="preserve">                                ``..       .-==-:`....``......`````````:-=-==`                      </text>
+    <text x="20" y="467.4" class="ascii-text" clip-path="url(#cp-31)" xml:space="preserve">                                             .-+=-:`.........````````:===:`-:                       </text>
+    <text x="20" y="481.2" class="ascii-text" clip-path="url(#cp-32)" xml:space="preserve">                                           .`-+c++=-:`............`-+=+=----.                       </text>
+    <text x="20" y="495.0" class="ascii-text" clip-path="url(#cp-33)" xml:space="preserve">:::::``..`````.                          .-+csss=+**+=-:`......`-=++-.*c*+---:                      </text>
+    <text x="20" y="508.8" class="ascii-text" clip-path="url(#cp-34)" xml:space="preserve">::-----:::-:::::`.......      ..       `=+*ssss#+--=+****+===++*++-`..csss=s+--`                    </text>
+    <text x="20" y="522.6" class="ascii-text" clip-path="url(#cp-35)" xml:space="preserve">:::-----::::::-:``:::---::`..:-:`.  .:cc*cssssss*-:---=+******+=-:..`.csc*+##+::-.                  </text>
+    <text x="20" y="536.4" class="ascii-text" clip-path="url(#cp-36)" xml:space="preserve">:::--------:::==:```:-=---:`=c**+=-:=ss*csssss*cc-------======-:`.```.*ss*+##c=:`-:                 </text>
+    <text x="20" y="550.2" class="ascii-text" clip-path="url(#cp-37)" xml:space="preserve">::::----:----:-=--::------::*c*ccc++ss*cccscss++*--:----====-:`.`````.:*s*+##s+-:`-=.               </text>
+    <text x="20" y="564.0" class="ascii-text" clip-path="url(#cp-38)" xml:space="preserve">::::-----:::::-=--::::---:`=ccccc**sscccccccs*=-+--------::`....``````.`--=cs#*=::`:+-.             </text>
+    <text x="20" y="577.8" class="ascii-text" clip-path="url(#cp-39)" xml:space="preserve">:`:::::----::::==--::`:----*ccccc*cc*+=---+*s=++---::`......`````..```..`---*#*+-::``=*-:.          </text>
+    <text x="20" y="591.6" class="ascii-text" clip-path="url(#cp-40)" xml:space="preserve">::::::::----:::-=---::::::+ccccsc*=---:````:c*+**+-`... ....`````````..`::--+#*++-:::.-c+=-:.       </text>
+    <text x="20" y="605.4" class="ascii-text" clip-path="url(#cp-41)" xml:space="preserve">::-:::::::--::::=--:::```-+*cccsccccccc**=-`-*==-------:``...........`:--:=+ss*++=-:::.:c*+---:.    </text>
+    <text x="20" y="619.2" class="ascii-text" clip-path="url(#cp-42)" xml:space="preserve">-:::-:::::---::`=-:::``.-++ccccssssccccs#c+=-*:`:----=======--------==+=+:*csc*==----::`:***=-:---:.</text>
+    <text x="20" y="633.0" class="ascii-text" clip-path="url(#cp-43)" xml:space="preserve">:-----::::----:`==`::``=++*ccccccccccccccc+s**:```:--=======++++++++===+:=ccsc++**cc*+=-:-c**+-:::-=</text>
+    <text x="20" y="646.8" class="ascii-text" clip-path="url(#cp-44)" xml:space="preserve">=====--::::----`-+`.`:+*+++++***+++++**ccs=cc*-`````::--======+=+=====+=:+*cc*c#######sc*+c***+---::</text>
+    <text x="20" y="660.6" class="ascii-text" clip-path="url(#cp-45)" xml:space="preserve">=====---:::----::=`.-***++==---:-=+++++==s*+s*=:-::::::-------------==---=cscc%ssssssss#c++****+=---</text>
+    <text x="20" y="674.4" class="ascii-text" clip-path="url(#cp-46)" xml:space="preserve">++====--::::---::::=c***++=-=--::::=++++-*c+#*=------:`  -----===-==::--:+*sc*ssc*+++++++==++***+--=</text>
+    <text x="20" y="688.2" class="ascii-text" clip-path="url(#cp-47)" xml:space="preserve">+++*++==--:::--::-*+=++++=---=---:::--=+++s*cc=---::--:::------=-=-:.----+*s**sc--==++-:------=**+-=</text>
+    <text x="20" y="702.0" class="ascii-text" clip-path="url(#cp-48)" xml:space="preserve">********+=--:----c*:-+===--------:------:=cc*c=-:--:----=-------=:  ==---+*cc+c+:==+==----::`:-=**+=</text>
+    <text x="20" y="715.8" class="ascii-text" clip-path="url(#cp-49)" xml:space="preserve">+**c***++==----+cccc+====-`:-::`````:--::-*s*c=-`:-:-----::-----.  ------=*c*+c+:-==-:::::```::-=+++</text>
+    <text x="20" y="729.6" class="ascii-text" clip-path="url(#cp-50)" xml:space="preserve">:--==++++==-::+sccsc:-==+=--:::::::```:--==s*c+:----:----=---:=+``=--::---**c=c+::````....  `:::-=++</text>
+    <text x="20" y="743.4" class="ascii-text" clip-path="url(#cp-51)" xml:space="preserve">.  ..```````:+ccs**c---=====---::::`````:=-+*c=::----:---`:--=*-==--------+*c=c=.`..   ...  ..```-==</text>
+    <text x="20" y="757.2" class="ascii-text" clip-path="url(#cp-52)" xml:space="preserve">.    ...   `*ccccc**=--=::---===-:::::::``-=c*-:--:---:::`:-=+------------=*c+*+ .        .....  .`:</text>
+  </g>
+  <!-- Typing Cursor -->
+  <text class="cursor-text" xml:space="preserve">█</text>
+</svg>
