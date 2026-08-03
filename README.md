@@ -1,6 +1,6 @@
 <div align="center">
 
-<h3><code>ashish@github ~ $ whoami</code></h3>
+<h3><code>ashusingh06@github:~$ whoami</code></h3>
 
 <p>
 <strong>Ashish Singh</strong><br>
@@ -20,11 +20,11 @@
 </tr>
 </table>
 
-<h3><code>ashish@github ~ $ ./contributions --last-year</code></h3>
+<h3><code>ashusingh06@github:~$ ./contributions --last-year</code></h3>
 
 <img src="contrib-heatmap.svg" alt="Contribution Graph" width="860">
 
-<h3><code>ashish@github ~ $ cat current.txt</code></h3>
+<h3><code>ashusingh06@github:~$ cat current.txt</code></h3>
 
 <pre>
 Building   : AshFal
@@ -36,7 +36,7 @@ Learning   : AI
 Goal       : Build software that solves real problems
 </pre>
 
-<h3><code>ashish@github ~ $ ls projects</code></h3>
+<h3><code>ashusingh06@github:~$ ls projects</code></h3>
 
 | Project | Description | Status |
 |:---------|:------------|:------:|
@@ -45,7 +45,7 @@ Goal       : Build software that solves real problems
 | **Portfolio** | Personal portfolio website | 🟡 In Progress |
 | **Study Tracker** | Student productivity analytics | 🟡 In Progress |
 
-<h3><code>ashish@github ~ $ tech_stack</code></h3>
+<h3><code>ashusingh06@github:~$ tech_stack</code></h3>
 
 <p>
 
@@ -60,14 +60,14 @@ Goal       : Build software that solves real problems
 
 </p>
 
-<h3><code>ashish@github ~ $ logout</code></h3>
+<h3><code>ashusingh06@github:~$ logout</code></h3>
 
 <pre>
 Session terminated successfully.
 
 Built with Python • Pure SVG • GitHub Actions
 
-ashish@github ~ $ █
+ashusingh06@github:~$
 </pre>
 
 </div>
