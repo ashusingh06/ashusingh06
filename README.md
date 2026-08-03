@@ -5,7 +5,7 @@
 <p>
 <strong>Ashish Singh</strong><br>
 <code>Student • Full Stack Developer • AI Learner</code><br>
-<em>Currently Building AshFal</em>
+
 </p>
 
 <table>
