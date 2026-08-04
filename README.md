@@ -3,76 +3,76 @@
 <h3><code>ashusingh06@github:~$ whoami</code></h3>
 
 <p>
-<strong>Ashish Singh</strong><br>
-<code>Student • Full Stack Developer • AI Learner</code><br>
-
+  <strong>Ashish Singh</strong><br />
+  <code>Student • Full Stack Developer • AI Learner</code><br />
+  <em>Currently Building Autonomous AI Agents</em>
 </p>
 
-<table>
-<tr>
-<td valign="top">
-<img src="avi-ascii.svg" alt="ASCII Portrait" width="370">
-</td>
+<br />
 
-<td valign="top">
-<img src="info-card.svg" alt="Info Card" width="490">
-</td>
-</tr>
+<table border="0">
+  <tr>
+    <td align="center" valign="middle">
+      <img src="avi-ascii.svg" alt="ASCII Portrait" width="370" />
+    </td>
+    <td align="center" valign="middle">
+      <img src="info-card.svg" alt="Terminal Profile Info Card" width="490" />
+    </td>
+  </tr>
 </table>
+
+<br />
 
 <h3><code>ashusingh06@github:~$ ./contributions --last-year</code></h3>
 
-<img src="contrib-heatmap.svg" alt="Contribution Graph" width="860">
+<a href="https://github.com/ashusingh06">
+  <img src="contrib-heatmap.svg" alt="GitHub Contribution Heatmap" width="860" />
+</a>
+
+<br />
+<br />
 
 <h3><code>ashusingh06@github:~$ cat current.txt</code></h3>
 
-<pre>
-<h1>Currently Working</h1>
-  AI Agents
-  Study Tracker Bot
-  AI Planner
+<div align="left" style="max-width: 860px;">
 
-Current Learning
-  Artificial Intelligence
-  Backend Development
-  System Design
+```yaml
+Building : Autonomous AI Agents
+Learning : LLM Architectures • Multi-Agent Orchestration • System Design
+Focus    : Autonomous Workflows & Software Engineering Agents
+Goal     : Build intelligent software that solves complex real-world problems
+```
 
-Primary Focus
-  Building scalable software
-</pre>
+</div>
 
-<h3><code>ashusingh06@github:~$ ls projects</code></h3>
+<br />
 
-| Project | Description | Status |
-|:---------|:------------|:------:|
-| **AshFal** | AI-powered habit & productivity platform | 🟢 Active |
-| **Discord Logger** | Discord activity & moderation logger | 🟢 Active |
-| **Portfolio** | Personal portfolio website | 🟡 In Progress |
-| **Study Tracker** | Student productivity analytics | 🟡 In Progress |
+<h3><code>ashusingh06@github:~$ ls -la projects/</code></h3>
+
+| Project | Description | Stack | Status |
+| :--- | :--- | :---: | :---: |
+| [**AI Agents Engine**](https://github.com/ashusingh06/ai-agents) | Autonomous multi-agent workflow & orchestration framework | `Python` `FastAPI` | `Active` |
+| [**Discord Logger**](https://github.com/ashusingh06/discord-logger) | Real-time automated activity & security audit logging bot | `TypeScript` `Node.js` | `Active` |
+| [**Study Tracker**](https://github.com/ashusingh06/study-tracker) | Student learning analytics & focus time tracking system | `Next.js` `Supabase` | `In Progress` |
+| [**Developer Portfolio**](https://github.com/ashusingh06/portfolio) | Minimalist interactive terminal-themed web platform | `Next.js` `TypeScript` | `In Progress` |
+
+<br />
 
 <h3><code>ashusingh06@github:~$ tech_stack</code></h3>
 
 <p>
-
-<code>Next.js</code>
-<code>React</code>
-<code>TypeScript</code>
-<code>Node.js</code>
-<code>Python</code>
-<code>Supabase</code>
-<code>PostgreSQL</code>
-<code>Git</code>
-
+  <code>Next.js</code> &nbsp; <code>Node.js</code> &nbsp; <code>TypeScript</code> &nbsp; <code>Python</code> &nbsp; <code>Supabase</code> &nbsp; <code>PostgreSQL</code> &nbsp; <code>Git</code>
 </p>
+
+<br />
 
 <h3><code>ashusingh06@github:~$ logout</code></h3>
 
 <pre>
 Session terminated successfully.
-
 Built with Python • Pure SVG • GitHub Actions
-
-ashusingh06@github:~$
 </pre>
+
+<h3><code>ashusingh06@github:~$ </code></h3>
 
 </div>

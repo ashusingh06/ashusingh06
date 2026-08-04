@@ -159,7 +159,7 @@ def generate_info_card_svg() -> str:
     svg.append(
         f'  <g class="line l-3"><text x="20" y="102" class="term-text">'
         f'<tspan fill="{COLOR_ACCENT_YELLOW}" font-weight="bold">SYSTEM</tspan>'
-        f'<tspan x="245" fill="{COLOR_ACCENT_YELLOW}" font-weight="bold">PROJECT</tspan>'
+        f'<tspan x="245" fill="{COLOR_ACCENT_YELLOW}" font-weight="bold">PROJECTS</tspan>'
         f'</text></g>'
     )
 
@@ -167,7 +167,7 @@ def generate_info_card_svg() -> str:
     svg.append(
         f'  <g class="line l-4"><text x="20" y="120" class="term-text">'
         f'<tspan fill="{COLOR_TEXT_MUTED}">OS        </tspan><tspan fill="{COLOR_TEXT_MAIN}">Windows 11</tspan>'
-        f'<tspan x="245" fill="{COLOR_ACCENT_GREEN}">❯ </tspan><tspan fill="{COLOR_TEXT_MAIN}">AshFal</tspan>'
+        f'<tspan x="245" fill="{COLOR_ACCENT_GREEN}">❯ </tspan><tspan fill="{COLOR_TEXT_MAIN}">AI Agents</tspan>'
         f'</text></g>'
     )
 
@@ -175,7 +175,7 @@ def generate_info_card_svg() -> str:
     svg.append(
         f'  <g class="line l-5"><text x="20" y="138" class="term-text">'
         f'<tspan fill="{COLOR_TEXT_MUTED}">Editor    </tspan><tspan fill="{COLOR_TEXT_MAIN}">VS Code</tspan>'
-        f'<tspan x="245" fill="{COLOR_ACCENT_GREEN}">❯ </tspan><tspan fill="{COLOR_TEXT_MAIN}">Habit Tracker</tspan>'
+        f'<tspan x="245" fill="{COLOR_ACCENT_GREEN}">❯ </tspan><tspan fill="{COLOR_TEXT_MAIN}">Discord Logger</tspan>'
         f'</text></g>'
     )
 
@@ -183,7 +183,7 @@ def generate_info_card_svg() -> str:
     svg.append(
         f'  <g class="line l-6"><text x="20" y="156" class="term-text">'
         f'<tspan fill="{COLOR_TEXT_MUTED}">Shell     </tspan><tspan fill="{COLOR_TEXT_MAIN}">PowerShell</tspan>'
-        f'<tspan x="245" fill="{COLOR_ACCENT_GREEN}">❯ </tspan><tspan fill="{COLOR_TEXT_MAIN}">AI Planner</tspan>'
+        f'<tspan x="245" fill="{COLOR_ACCENT_GREEN}">❯ </tspan><tspan fill="{COLOR_TEXT_MAIN}">Study Tracker</tspan>'
         f'</text></g>'
     )
 
@@ -191,7 +191,7 @@ def generate_info_card_svg() -> str:
     svg.append(
         f'  <g class="line l-7"><text x="20" y="174" class="term-text">'
         f'<tspan fill="{COLOR_TEXT_MUTED}">GitHub    </tspan><tspan fill="{COLOR_TEXT_MAIN}">ashusingh06</tspan>'
-        f'<tspan x="245" fill="{COLOR_ACCENT_GREEN}">❯ </tspan><tspan fill="{COLOR_TEXT_MAIN}">Discord Logger</tspan>'
+        f'<tspan x="245" fill="{COLOR_ACCENT_GREEN}">❯ </tspan><tspan fill="{COLOR_TEXT_MAIN}">Portfolio Website</tspan>'
         f'</text></g>'
     )
 
@@ -207,7 +207,7 @@ def generate_info_card_svg() -> str:
     svg.append(
         f'  <g class="line l-9"><text x="20" y="216" class="term-text">'
         f'<tspan fill="{COLOR_TEXT_MAIN}">Next.js • Node.js • TS</tspan>'
-        f'<tspan x="245" fill="{COLOR_ACCENT_CYAN}">❯ </tspan><tspan fill="{COLOR_TEXT_MAIN}">Build useful software</tspan>'
+        f'<tspan x="245" fill="{COLOR_ACCENT_CYAN}">❯ </tspan><tspan fill="{COLOR_TEXT_MAIN}">Build AI Agents</tspan>'
         f'</text></g>'
     )
 
@@ -215,7 +215,7 @@ def generate_info_card_svg() -> str:
     svg.append(
         f'  <g class="line l-10"><text x="20" y="234" class="term-text">'
         f'<tspan fill="{COLOR_TEXT_MAIN}">Python  • Supabase • Git</tspan>'
-        f'<tspan x="245" fill="{COLOR_ACCENT_CYAN}">❯ </tspan><tspan fill="{COLOR_TEXT_MAIN}">Master AI</tspan>'
+        f'<tspan x="245" fill="{COLOR_ACCENT_CYAN}">❯ </tspan><tspan fill="{COLOR_TEXT_MAIN}">Master AI Architectures</tspan>'
         f'</text></g>'
     )
 
@@ -225,7 +225,7 @@ def generate_info_card_svg() -> str:
         f'<tspan fill="{COLOR_ACCENT_CYAN}">❯ </tspan><tspan fill="{COLOR_TEXT_MAIN}">Contribute to Open Source</tspan>'
         f'</text>'
         f'<text x="245" y="270" class="term-text">'
-        f'<tspan fill="{COLOR_ACCENT_CYAN}">❯ </tspan><tspan fill="{COLOR_TEXT_MAIN}">Ship Products</tspan>'
+        f'<tspan fill="{COLOR_ACCENT_CYAN}">❯ </tspan><tspan fill="{COLOR_TEXT_MAIN}">Ship Production Software</tspan>'
         f'</text>'
         f'<text x="20" y="295" class="term-text">'
         f'<tspan fill="{COLOR_ACCENT_GREEN}">❯ </tspan>'
