@@ -27,7 +27,7 @@
 <h3><code>ashusingh06@github:~$ cat current.txt</code></h3>
 
 <pre>
-Current Work
+<h1>Currently Working</h1>
   AI Agents
   Study Tracker Bot
   AI Planner
