@@ -28,17 +28,17 @@
 
 <pre>
 Current Work
-├── AI Agents
-├── Study Tracker Bot
-└── AI Planner
+  AI Agents
+  Study Tracker Bot
+  AI Planner
 
 Current Learning
-├── Artificial Intelligence
-├── Backend Development
-└── System Design
+  Artificial Intelligence
+  Backend Development
+  System Design
 
 Primary Focus
-└── Building scalable software
+  Building scalable software
 </pre>
 
 <h3><code>ashusingh06@github:~$ ls projects</code></h3>
