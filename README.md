@@ -27,13 +27,18 @@
 <h3><code>ashusingh06@github:~$ cat current.txt</code></h3>
 
 <pre>
-Building   : AshFal
+Current Work
+├── AI Agents
+├── Study Tracker Bot
+└── AI Planner
 
-Learning   : AI
-             Backend
-             System Design
+Current Learning
+├── Artificial Intelligence
+├── Backend Development
+└── System Design
 
-Goal       : Build software that solves real problems
+Primary Focus
+└── Building scalable software
 </pre>
 
 <h3><code>ashusingh06@github:~$ ls projects</code></h3>
