@@ -115,7 +115,7 @@
   <rect class="bg-card" width="800" height="201" />
   <!-- Header & Statistics -->
   <text x="36" y="25" class="title-text">GitHub Activity</text>
-  <text x="775" y="25" class="stats-text" text-anchor="end">Total: 0  •  Active: 5d  •  Streak: 4d (4d max)  •  Avg: 0.00/day</text>
+  <text x="775" y="25" class="stats-text" text-anchor="end">Total: 0  •  Active: 7d  •  Streak: 6d (6d max)  •  Avg: 0.00/day</text>
   <!-- Month Labels -->
   <g class="month-labels">
     <text x="36" y="46" class="label-text">Aug</text>
@@ -874,8 +874,10 @@ Level 2 activity</title></rect>
 Level 4 activity</title></rect>
     <rect class="day-cell d-54" x="764" y="82" width="11" height="11" rx="2.5" ry="2.5" fill="#006d32"><title>2026-08-04
 Level 2 activity</title></rect>
-    <rect class="day-cell d-55" x="764" y="96" width="11" height="11" rx="2.5" ry="2.5" fill="#161b22"><title>No contributions</title></rect>
-    <rect class="day-cell d-56" x="764" y="110" width="11" height="11" rx="2.5" ry="2.5" fill="#161b22"><title>No contributions</title></rect>
+    <rect class="day-cell d-55" x="764" y="96" width="11" height="11" rx="2.5" ry="2.5" fill="#0e4429"><title>2026-08-05
+Level 1 activity</title></rect>
+    <rect class="day-cell d-56" x="764" y="110" width="11" height="11" rx="2.5" ry="2.5" fill="#0e4429"><title>2026-08-06
+Level 1 activity</title></rect>
     <rect class="day-cell d-57" x="764" y="124" width="11" height="11" rx="2.5" ry="2.5" fill="#161b22"><title>No contributions</title></rect>
     <rect class="day-cell d-58" x="764" y="138" width="11" height="11" rx="2.5" ry="2.5" fill="#161b22"><title>No contributions</title></rect>
   </g>
