@@ -26,7 +26,7 @@
 <h3><code>ashusingh06@github:~$ ./contributions --current</code></h3>
 
 <a href="https://github.com/ashusingh06">
- ## 📈 GitHub Activity
+ #📈 GitHub Activity
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashusingh06&theme=github-compact)
 </a>
