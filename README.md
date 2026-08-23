@@ -52,7 +52,7 @@ Goal     : Build intelligent software that solves complex real-world problems
 | Project | Description | Stack | Status |
 | :--- | :--- | :---: | :---: |
 | [**AI Agents Engine**](https://github.com/ashusingh06/ai-agents) | Autonomous multi-agent workflow & orchestration framework | `Python` `FastAPI` | `Active` |
-| [**Discord Logger**](https://github.com/ashusingh06/discord-logger) | Real-time automated activity & security audit logging bot | `TypeScript` `Node.js` | `Active` |
+| [**Discord Logger**](https://github.com/ashusingh06/DiscordStudyTrackerBot) | Real-time automated activity & security audit logging bot | `TypeScript` `Node.js` | `Active` |
 | [**Study Tracker**](https://github.com/ashusingh06/study-tracker) | Student learning analytics & focus time tracking system | `Next.js` `Supabase` | `In Progress` |
 | [**Developer Portfolio**](https://github.com/ashusingh06/portfolio) | Minimalist interactive terminal-themed web platform | `Next.js` `TypeScript` | `In Progress` |
 
