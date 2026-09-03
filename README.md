@@ -57,6 +57,7 @@ Goal     : Build intelligent software that solves complex real-world problems
 | [**Discord Logger**](https://github.com/ashusingh06/DiscordStudyTrackerBot) | Real-time automated activity & security audit logging bot | `TypeScript` `Node.js` | `Active` |
 | [**Study Tracker**](https://github.com/ashusingh06/study-tracker) | Student learning analytics & focus time tracking system | `Next.js` `Supabase` | `In Progress` |
 | [**Developer Portfolio**](https://github.com/ashusingh06/portfolio) | Minimalist interactive terminal-themed web platform | `Next.js` `TypeScript` | `In Progress` |
+| [**Management-Hub**](https://github.com/ashusingh06/Management-Hub) | IITM BS Students Helpful Portal | 
 
 <br />
 
