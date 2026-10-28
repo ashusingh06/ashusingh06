@@ -56,14 +56,14 @@ Goal     : Build intelligent software that solves complex real-world problems
 | [**AI Agents Engine**](https://github.com/ashusingh06/ai-agents) | Autonomous multi-agent workflow & orchestration framework | `Python` `FastAPI` | `In Progress` |
 | [**Discord Logger**](https://github.com/ashusingh06/DiscordStudyTrackerBot) | Real-time automated activity & security audit logging bot | `TypeScript` `Node.js` | `Active` |
 | [**Study Tracker**](https://github.com/ashusingh06/study-tracker) | Student learning analytics & focus time tracking system | `Next.js` `Supabase` | `In Progress` |
-| [**Developer Portfolio**](https://github.com/ashusingh06/portfolio) | Minimalist interactive terminal-themed web platform | `Next.js` `TypeScript` | `In Progress` |
+| [**AshWorks Portfolio**](https://github.com/ashusingh06/AshWorks-Portfolio) | Cinematic Netflix-inspired developer portfolio & showcase ([Live](https://ashworks.space)) | `JavaScript` `Node.js` `Firebase` | `Active` |
 | [**Management-Hub**](https://github.com/ashusingh06/Management-Hub) | IITM BS Degree Academic & Resource Hub | `Node.js` `Express` `Firebase` | `Active` |
 <br />
 
 <h3><code>ashusingh06@github:~$ tech_stack</code></h3>
 
 <p>
-  <code>Next.js</code> &nbsp; <code>Node.js</code> &nbsp; <code>TypeScript</code> &nbsp; <code>Python</code> &nbsp; <code>Supabase</code> &nbsp; <code>PostgreSQL</code> &nbsp; <code>Git</code>
+  <code>Next.js</code> &nbsp; <code>Node.js</code> &nbsp; <code>TypeScript</code> &nbsp; <code>Python</code> &nbsp; <code>Supabase</code> &nbsp; <code>PostgreSQL</code> &nbsp; <code>Firebase</code> &nbsp; <code>Git</code>
 </p>
 
 <br />
